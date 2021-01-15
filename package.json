@@ -1,0 +1,12 @@
+{
+  "name": "conceitos-de-graphQl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wellingtonn96/conceitos-de-graphQl.git",
+  "author": "Wellington Santos <weltossousa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.19.2",
+    "graphql": "^15.4.0"
+  }
+}
