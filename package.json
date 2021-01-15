@@ -6,7 +6,7 @@
   "author": "Wellington Santos <weltossousa@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "npx nodemon src/index.js"
+    "dev": "npx nodemon --exec babel-node src/index.js"
   },
   "dependencies": {
     "apollo-server": "^2.19.2",
